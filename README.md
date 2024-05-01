@@ -23,7 +23,7 @@ Cloud masking is both a fundamental and a critical task in the many Earth observ
 ## Key Features:
 
 - **Label-free**: The training does not require any cloud labels.
-- **Platform-independent**: The framework can be applied to any satellite platforms (e.g., PlanetScope, Landsat-8, and Sentinel-2).
+- **Platform-independent**: The framework can be applied to any satellite platforms (e.g., [PlanetScope](https://www.planet.com/products/), [Landsat-8](https://www.usgs.gov/landsat-missions/landsat-8), and [Sentinel-2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2)).
 
 ## Example
 
@@ -33,7 +33,7 @@ The following figure shows an example of results comparing to deep clustering ([
 
 ## Explanation of the code:
 
-We provided the codes for training and testing with PlanetScope data. Codes for other satellite platforms may be uploaded later.
+We provided the codes for training and testing with [PlanetScope](https://www.planet.com/products/) data. Codes for other satellite platforms may be uploaded later.
 
 [AutoCM.ipynb](https://github.com/ai-spatial/Auto-CM/blob/main/AutoCM.ipynb) has everything together in one notebook.
 
